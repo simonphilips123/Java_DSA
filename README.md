@@ -13,7 +13,7 @@
 => Easy Level Programs
 
 ### 1. WAP to insert an element at a specified position in a given array.
-2. WAP to delete an element from a specified position in a given array.
+###  2. WAP to delete an element from a specified position in a given array.
 3. WAP to search for a specific element in a given array.
 4. WAP to sort an array elements in ascending or descending order
 5. WAP to find the largest element in a given array.
