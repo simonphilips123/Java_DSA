@@ -1,8 +1,8 @@
 => Very Easy Level Programs
 
-##### 1. WAP to calculate the sum of all elements in a given array.
-##### 2. WAP to count the number of even and odd elements in a given array.
-3. WAP to calculate the sum of even and odd numbers separately in a given array.
+# 1. WAP to calculate the sum of all elements in a given array.
+# 2. WAP to count the number of even and odd elements in a given array.
+# 3. WAP to calculate the sum of even and odd numbers separately in a given array.
 4. WAP to count the number of positive, negative, and zero elements in a given array.
 5. WAP to calculate the average of all elements in a given array.
 6. WAP to swap two elements in a given array at specified positions.
