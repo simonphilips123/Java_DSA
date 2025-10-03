@@ -27,8 +27,10 @@
 2. WAP to find the second smallest element in an array (2 ways)
 3. WAP to find the kth largest or smallest element in an array
 4. WAP to reverse the elements of a given array.
+============================================================================================
 
 ---------2D Array--------
+
 14. WAP to calculate the sum of all elements in a given 2D array.
 15. WAP to copy all elements of one 2D array into another 2D array.
 16. WAP to add two given matrices.
