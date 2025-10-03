@@ -31,7 +31,7 @@
 
 ---------2D Array--------
 
-14. WAP to calculate the sum of all elements in a given 2D array.
+### 14. WAP to calculate the sum of all elements in a given 2D array.
 15. WAP to copy all elements of one 2D array into another 2D array.
 16. WAP to add two given matrices.
 17. WAP to subtract one matrix from another given matrix.
