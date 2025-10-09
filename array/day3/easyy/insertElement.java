@@ -1,4 +1,4 @@
-package Java_DSA.array.day3;
+package Java_DSA.array.day3.easyy;
 
 public class insertElement {
     public static void main(String[] args) {
@@ -11,7 +11,8 @@ public class insertElement {
             narr[i] = arr[i];
         }
         narr[index]=element;
-            for (int j = index; j < n; j++) {
+
+        for (int j = index; j < n; j++) {
                 narr[j + 1] = arr[j];
             }
         for(int no:narr){
